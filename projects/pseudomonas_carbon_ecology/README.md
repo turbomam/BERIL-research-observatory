@@ -31,4 +31,4 @@ The *Pseudomonas* genus spans an extraordinary ecological range, from versatile 
 4. Run `04_ecology_prediction.ipynb` locally to test environment prediction from pathway profiles
 
 ## Authors
-- Mar Andrew Miller ([ORCID: 0000-0001-9076-6066](https://orcid.org/0000-0001-9076-6066))
+- Mark Andrew Miller ([ORCID: 0000-0001-9076-6066](https://orcid.org/0000-0001-9076-6066))

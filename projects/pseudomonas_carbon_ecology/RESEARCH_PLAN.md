@@ -156,4 +156,4 @@ WHERE g.gtdb_species_clade_id LIKE 's__Pseudomonas_%'
   - Confirmed GTDB subgenus structure captures free-living vs host-associated split
 
 ## Authors
-- Mar Andrew Miller ([ORCID: 0000-0001-9076-6066](https://orcid.org/0000-0001-9076-6066))
+- Mark Andrew Miller ([ORCID: 0000-0001-9076-6066](https://orcid.org/0000-0001-9076-6066))
